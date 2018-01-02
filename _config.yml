@@ -55,3 +55,6 @@ languages:
 - label: Italiano
   iso-alpha2: it
   path: /it/
+- label: हिन्दी
+  iso-alpha2: hi
+  path: /hi/
